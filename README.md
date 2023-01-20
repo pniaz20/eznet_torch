@@ -1,7 +1,7 @@
 # ezNet-torch
 
 PyTorch implementation of **ezNet** ("easy net"), a package containing "easy" implementation of a collection of basic and widely-used deep learning models.  
-This implementation is for PyTorch. See (where?) for identical Keras (TensorFlow) implementation.
+This implementation is for PyTorch. See [here](https://github.com/pniaz20/eznet_keras) for an identical Keras (TensorFlow) implementation.
 
 Author: Pouya P. Niaz (<pniaz20@ku.edu.tr> , <pouya.p.niaz@gmail.com>)  
 Version: 0.0.0  
