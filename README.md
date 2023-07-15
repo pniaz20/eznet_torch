@@ -4,8 +4,8 @@ PyTorch implementation of **ezNet** ("easy net"), a package containing "easy" im
 This implementation is for PyTorch. See [here](https://github.com/pniaz20/eznet_keras) for an identical Keras (TensorFlow) implementation.
 
 Author: Pouya P. Niaz (<pniaz20@ku.edu.tr> , <pouya.p.niaz@gmail.com>)  
-Version: 0.0.0  
-Last Update: Jan 20, 2023
+Version: 0.0.1  
+Last Update: July 15, 2023
 
 Install with:
 

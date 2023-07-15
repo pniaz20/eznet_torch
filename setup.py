@@ -6,8 +6,8 @@ here = pathlib.Path(__file__).parent.resolve()
 # Get the long description from the README file
 long_description = (here / "README.md").read_text(encoding="utf-8")
 
-VERSION = '0.0.0' 
-DESCRIPTION = "Easily build PyTorch models: utils for training/testing, built-in ANN, CNN, RNN models, modular Dense and Conv blocks, etc."
+VERSION = '0.0.1' 
+DESCRIPTION = "Easily build PyTorch models: utils for training/testing, built-in ANN, CNN, RNN models, modular Dense and Convolutional blocks, etc."
 
 # Setting up
 setup(
@@ -26,7 +26,7 @@ setup(
         python_requires=">=3.7, <4",
         license='MIT',
         install_requires=[
-            'numpy','tqdm','scikit-learn','torch (<2.0)'
+            'numpy','tqdm','scikit-learn','torch'
         ],
         keywords=['torch','pytorch','deep learning','neural network'],
         classifiers= [
